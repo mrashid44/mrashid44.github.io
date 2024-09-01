@@ -21,22 +21,22 @@ repository               : "mrashid44/mrashid44.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mamun_profile_photo.png"
   name             : "Mamunur Rashid"
   pronouns         : # example: "He/His"  
   bio              : "Ph.D. in Electrical and Computer Engineering"
   location         : "Cookeville, TN, USA"
   employer         : "Tennessee Tech University"
-  uri              : # URL
-  email            : "none@example.org" 
+  URI              : "mrashid44.github.io"
+  email            : "mrashid44@tntech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=nNB-dYcAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
