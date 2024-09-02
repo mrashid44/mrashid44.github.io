@@ -21,7 +21,7 @@ repository               : "mrashid44/mrashid44.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mamun_profile_photo.png"
+  avatar           : "mamun_photo.png"
   name             : "Mamunur Rashid"
   pronouns         : # example: "He/His"  
   bio              : "Ph.D. in Electrical and Computer Engineering"
