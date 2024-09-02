@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, Tennessee Tech University, 2025 (expected)
+* M.Sc. in Electrical Engineering, University Malaysia Pahang, 2021
+* B.Sc. in Electrical and Electronic Engineering, Pabna University of Science and Technology, 2016
 
 Work experience
 ======
